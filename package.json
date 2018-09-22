@@ -1,0 +1,22 @@
+{
+  "name": "my-hapi-seed",
+  "version": "1.0.0",
+  "description": "seed proj for hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wushq5/my-hapi-seed.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "rcrabwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wushq5/my-hapi-seed/issues"
+  },
+  "homepage": "https://github.com/wushq5/my-hapi-seed#readme"
+}
